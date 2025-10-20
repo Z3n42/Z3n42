@@ -114,6 +114,12 @@ I started out studying languages and literature but found my true passion in tec
 
 ---
 
+## 💼 Professional Profile Activity
+
+[![Visit Professional Profile](https://img.shields.io/badge/View_Full_Profile-@Inigonzal-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inigonzal)
+
+---
+
 # 📊 42 Stats
 [![ingonzal's 42 stats](https://badge.mediaplus.ma/darkblue/ingonzal?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
