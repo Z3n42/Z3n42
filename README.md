@@ -28,6 +28,8 @@ I started out studying languages and literature but found my true passion in tec
   - [**Inception-of-Things (IoT)**](https://github.com/Mirgc/IoT):  
   A collection of system administration exercises focused on lightweight infrastructure and Kubernetes. It covers building clusters with Vagrant and K3s, deploying web applications with Traefik ingress, and automating CI/CD with Argo CD. Each part demonstrates incremental DevOps skills with practical scripts and automation.
 
+---
+
 ### 🌱 I'm currently learning
 
 - **HashiCorp Terraform Certification** (planning to take exam after January 2026)
@@ -53,6 +55,8 @@ I started out studying languages and literature but found my true passion in tec
 ## 🎓 Certifications & Education
 
 - 🎯 Software Engineering Student at **42 Urduliz**
+**📚 [View Complete 42 Portfolio & Project Documentation](https://github.com/Z3n42/Common-Core)**
+
 - 📚 HashiCorp Terraform Associate (in progress - expected 2026)
 
 ---
@@ -130,6 +134,6 @@ I started out studying languages and literature but found my true passion in tec
 
 ---
 
-![](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Z3n42&color=blue)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
