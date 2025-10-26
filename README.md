@@ -107,9 +107,9 @@ I started out studying languages and literature but found my true passion in tec
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Z3n42&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Z3n42&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1600)<br/>
 ![](https://streak-stats.demolab.com/?user=Z3n42&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3n42&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1600)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3n42&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 ---
 
