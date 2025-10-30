@@ -54,10 +54,8 @@ I started out studying languages and literature but found my true passion in tec
 
 ## 🎓 Certifications & Education
 
-- 🎯 Software Engineering Student at **42 Urduliz**
-**📚 [View Complete 42 Portfolio & Project Documentation](https://github.com/Z3n42/Common-Core)**
-
-- 📚 HashiCorp Terraform Associate (in progress - expected 2026)
+- 🎯 **42 Urduliz** - Software Engineering Student
+- 📚 **HashiCorp Terraform Associate** (in progress - expected 2026)
 
 ---
 
@@ -121,6 +119,15 @@ I started out studying languages and literature but found my true passion in tec
 ## 💼 Professional Profile Activity
 
 [![Visit Professional Profile](https://img.shields.io/badge/View_Full_Profile-@Inigonzal-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inigonzal)
+
+---
+
+## 🌌 42 Software Engineering Journey
+
+[![Common Core Portfolio](https://img.shields.io/badge/42_Common_Core-16_Projects_Completed-success?style=for-the-badge&logo=42)](https://github.com/Z3n42/Common-Core)
+[![Level](https://img.shields.io/badge/Level-7+-purple?style=for-the-badge)](https://github.com/Z3n42/Common-Core)
+
+**[📚 View Complete Portfolio & Technical Documentation](https://github.com/Z3n42/Common-Core)**
 
 ---
 
